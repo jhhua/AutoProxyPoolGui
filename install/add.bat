@@ -1,0 +1,1 @@
+setx PATH "%Path%;C:\python27\;C:\python27\Tools\Scripts\"
